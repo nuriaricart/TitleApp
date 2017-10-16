@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TitleApp</string>
+    <string name="title">Este título se puede editar...</string>
+    <string name="btn_edit">Edita</string>
+</resources>
